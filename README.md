@@ -6,7 +6,7 @@ Stock market prediction is the act of trying to determine the future value of a 
 The stock market is driven mainly by uncertainty and future expectations. The price of a stock is highly complicated and is determined by a great number of variables. Global and domestic news and social media posts can hit all markets and create huge movements, all based on reaction. That makes the market difficult to predict. The analysis of this sector is complicated as there is an esoteric language used by these financial experts to explain their ideas. There are many non-statistical parameters that influence the price of stocks in the short run and this project would use correlated stocks influence on one another, sentiment analysis of influential tweets, posts and news articles as the predictor in the change to stock prices. Apart from sentiment analysis, Overseas Market/Economic Action, Economic Data, Futures Data, Buying At The Open, Midday Trading Lull, Analyst Upgrades/Downgrades, Web-Related Articles, Friday Trading should be taken into consideration for increasing the accuracy of the predictive model.
 # Data sources
 The project requires multiple data sources:
-● Text based online posts and news article for Sentiment Analysis.
+● Text based online posts and news article for Sentiment Analysis. <br>
 ● Financial data from websites that will be used to train & test machine learning
 algorithms.
 Real-Time Data Sources
