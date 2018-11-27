@@ -7,7 +7,7 @@ The stock market is driven mainly by uncertainty and future expectations. The pr
 # Data sources
 The project requires multiple data sources:
 ● Text based online posts and news article for Sentiment Analysis. <br>
-● Financial data from websites that will be used to train & test machine learning
+● Financial data from websites that will be used to train & test machine learning <br>
 algorithms.
 Real-Time Data Sources
 ○ ○
